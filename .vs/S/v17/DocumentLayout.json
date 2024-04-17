@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luisb\\source\\repos\\Snake\\SnakeGame\\S\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Luisb\\source\\repos\\Snak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE3D64C-4A99-4F93-B431-BB36474224AA}|S\\S.vcxproj|C:\\Users\\Luisb\\source\\repos\\Snak\\S\\S.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDE3D64C-4A99-4F93-B431-BB36474224AA}|S\\S.vcxproj|solutionrelative:S\\S.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "S.cpp",
+              "DocumentMoniker": "C:\\Users\\Luisb\\source\\repos\\Snak\\S\\S.cpp",
+              "RelativeDocumentMoniker": "S\\S.cpp",
+              "ToolTip": "C:\\Users\\Luisb\\source\\repos\\Snak\\S\\S.cpp",
+              "RelativeToolTip": "S\\S.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T08:52:10.484Z",
+              "EditorCaption": ""
             }
           ]
         }

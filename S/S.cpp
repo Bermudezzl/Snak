@@ -23,7 +23,7 @@ void Configuracion()
     frutaY = rand() % alto; // Posición aleatoria para la fruta en el alto del tablero
     puntaje = 0; // El puntaje comienza en cero
 }
-
+//
 void EstablecerColor(int color)
 {
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color); // Configura el color de texto de la consola
